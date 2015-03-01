@@ -1,7 +1,7 @@
 @ECHO off
 :: lelufg @ shelleprechaun
 title Khyber @ shelleprechaun
-echo khyber - a mugen.vbn erasing tool
+echo khyber - a mugen.vbs erasing tool
 @ping 127.0.0.1 -n 2 -w 1000 > nul
 echo this will be updated weekly.
 @ping 127.0.0.1 -n 2 -w 1000 > nul
