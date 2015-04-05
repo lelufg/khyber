@@ -1,16 +1,14 @@
 ## khyber for developers ##
 
-**Howdy!** this is khyber, a mugen.vbs erasing tool
+**Olá marilene!** Este é o Khyber, um "limpador" de vírus "escondidos" em seu drive móvel!
 
-## a word ##
+## algumas informações ##
 
-Khyber currently it is on a "experimental" build, leaving in consideration that many features will be added later. Also I would like to say this is going to be updated weekly, as well as my work on LeprechaunProject. Oh, don't know what it is? Checkout [here!](https://github.com/lelufg/shelleprechaun/)
+Este script está em fase inicial, e apesar de já ser bastante estável e não sofrer glitches (Batch <3), mudanças ainda serão feitas e modificações serão esperadas. Porém, eu colocarei cada versão antiga em uma pasta dedicada, sem problemas ;) Ah, eu tenho um projeto com um amigo meu! Quer colar lá? Clica [aqui!](https://github.com/lelufg/shelleprechaun/)
 
-## linux version ##
-Linux version will be added later, there is some stuff i need to change before release it, otherwise it will bug all over your desktop. You wouldn't like if this happen, right? 
+## versão de linux ##
+O linux já possui métodos de defesa para certas ameaças, mas sim, o Khyber será portado para o Linux assim que possível.
 
-## what language? ##
-Well, for Windows there is BATCH, and for Linux (in a proper future) there is SHELL. Dunno if i'll add some ports for Python or Cpp, who knows :p
-
-## can i share or edit? ##
-Sure but keep in mind that is my work and I've done this by myself. Put some credits at the end and everything will be fine.
+## postagem oficial? ##
+Dá uma olhada nesse [link](https://www.facebook.com/photo.php?fbid=942902305742143&set=gm.680111588764043&type=1&theater) que 
+as coisas estão melhores informadas para os senhores(as).
