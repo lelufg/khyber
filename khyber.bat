@@ -1,21 +1,21 @@
 @ECHO off
 :: lelufg @ shelleprechaun
-title Khyber @ shelleprechaun
-echo khyber - a mugen.vbs erasing tool
+title Khyber, por Luiz Nickel
+echo khyber - uma ferramenta simples
 @ping 127.0.0.1 -n 2 -w 1000 > nul
-echo this will be updated weekly.
+echo que cura qualquer pendrive!
 @ping 127.0.0.1 -n 2 -w 1000 > nul
-echo developed by lelufg (luiznickel)
+echo atualizado semanalmente pelo git
 @ping 127.0.0.1 -n 2 -w 1000 > nul
 :khyber_menu
-echo Tool menu
-echo S - Initiate mugen search and cleaning
-echo Q - Quit
+echo Menu Principal
+echo I - Iniciar Varredura
+echo S - Sair
 set/p "khyber_cho=>"
-if %khyber_cho%==S goto khyber_action
-if %khyber_cho%==s goto khyber_action
-if %khyber_cho%==Q goto khyber_quit
-if %khyber_cho%==q goto khyber_quit
+if %khyber_cho%==I goto khyber_action
+if %khyber_cho%==i goto khyber_action
+if %khyber_cho%==S goto khyber_quit
+if %khyber_cho%==s goto khyber_quit
 echo loaded.
 :: script attrib session
 :khyber_action
@@ -26,6 +26,8 @@ attrib -h -r -s /s /d G:\*.* :: 3rd try
 attrib -h -r -s /s /d H:\*.* :: 4th try
 echo done. you may able to see your files now.
 pause
-goto menu
+goto khyber_menu
+pause
+goto khyber_menu
 :khyber_quit
 exit
