@@ -1,14 +1,13 @@
-## khyber for developers ##
+## Khyber - A salvação para o seu pendrive! ##
 
-**Olá marilene!** Este é o Khyber, um "limpador" de vírus "escondidos" em seu drive móvel!
+**Olá marilene!** Este é o Khyber, um arquivo simples que vai limpar seu pendrive das ameaças que seu anti-vírus não encontra!
 
-## algumas informações ##
+## Algumas informações ##
 
-Este script está em fase inicial, e apesar de já ser bastante estável e não sofrer glitches (Batch <3), mudanças ainda serão feitas e modificações serão esperadas. Porém, eu colocarei cada versão antiga em uma pasta dedicada, sem problemas ;) Ah, eu tenho um projeto com um amigo meu! Quer colar lá? Clica [aqui!](https://github.com/lelufg/shelleprechaun/)
+Este script está em fase inicial, e apesar de já ser bastante estável e não sofrer glitches (Batch <3), mudanças ainda serão feitas. Ah, eu tenho um projeto com um amigo meu! Quer colar lá? Clica [aqui!](https://github.com/lelufg/shelleprechaun/)
 
-## versão de linux ##
-O linux já possui métodos de defesa para certas ameaças, mas sim, o Khyber será portado para o Linux assim que possível.
+## Versão de linux ##
+Pelo fato do sistema do penguim já possuir defensores potentes, tentarei portar o Khyber pra ele :)
 
-## postagem oficial? ##
-Dá uma olhada nesse [link](https://www.facebook.com/photo.php?fbid=942902305742143&set=gm.680111588764043&type=1&theater) que 
-as coisas estão melhores informadas para os senhores(as).
+## Tem algo oficial? ##
+Dá uma olhada nesse [link](https://www.facebook.com/photo.php?fbid=942902305742143&set=gm.680111588764043&type=1&theater) que as coisas estão mais explicadas. Você também pode acessar o site oficial, onde poderá baixar a versão mais atual, ou simplesmente atualizar, DIRETAMENTE da source. Clique [aqui](http://khyber-net.tk) se estiver interessado.
